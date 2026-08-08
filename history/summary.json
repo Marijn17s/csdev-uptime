@@ -4,17 +4,19 @@
     "url": "https://csdev.me",
     "icon": "https://icons.duckduckgo.com/ip3/csdev.me.ico",
     "slug": "csdev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "59.97%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.58%",
     "time": 677,
-    "timeDay": 754,
-    "timeWeek": 709,
-    "timeMonth": 706,
+    "timeDay": 705,
+    "timeWeek": 702,
+    "timeMonth": 704,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-08": 576
+    }
   }
 ]
