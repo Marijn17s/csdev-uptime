@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdev.me.ico",
     "slug": "csdev",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "99.66%",
-    "time": 663,
-    "timeDay": 526,
-    "timeWeek": 616,
-    "timeMonth": 635,
-    "timeYear": 663,
+    "uptimeYear": "99.67%",
+    "time": 665,
+    "timeDay": 888,
+    "timeWeek": 650,
+    "timeMonth": 639,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2026-08-08": 576
     }
